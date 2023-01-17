@@ -1,2 +1,2 @@
 tasks:
-  - init: gp open README.java
+  - init: gp open README.md
