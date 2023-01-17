@@ -1,2 +1,2 @@
 tasks:
-  - init: gp open README.md
+  - init: gp open test.md
